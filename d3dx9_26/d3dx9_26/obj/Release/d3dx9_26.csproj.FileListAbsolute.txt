@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\bin\Release\d3dx9_26.XML
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\bin\Release\d3dx9_26.dll
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\bin\Release\d3dx9_26.pdb
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\obj\Release\d3dx9_26.dll
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\obj\Release\d3dx9_26.pdb
+F:\Visual Studio\Projects\d3dx9_26\d3dx9_26\bin\Release\Ionic.Zip.dll
